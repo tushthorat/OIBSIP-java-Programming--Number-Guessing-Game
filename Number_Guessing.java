@@ -1,6 +1,5 @@
-//Madhav Sandeep Lonkar
-//Task-2 Number Guessing
-//Java Programming
+
+// Task-2 Number Guessing (Java Programming)
 
 
 
